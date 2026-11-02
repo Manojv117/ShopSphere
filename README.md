@@ -38,7 +38,19 @@ Databricks Medallion Architecture Explained | Unlocking Business Value
 
 
 
+## Project Screenshots
 
+### 1. Airflow Pipeline Orchestration
+![Airflow DAG](/Users/manojvenkatesh/Downloads/shopsphere_databricks_dag-graph.png)
+
+### 2. Bronze Layer
+![Bronze Tables]('/Users/manojvenkatesh/Desktop/Screenshot 2026-11-01 at 22.39.22.png')
+
+### 3. Silver Layer
+![Silver Tables]('/Users/manojvenkatesh/Desktop/Screenshot 2026-11-01 at 22.39.22.png')
+
+### 4. Gold Layer
+![Gold Tables]('/Users/manojvenkatesh/Desktop/Screenshot 2026-11-01 at 22.45.59.png')
 
 ## Technology Stack
 
